@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "scarlett2018",
+      "name": "Scarlett Li",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39592018?v=4",
+      "profile": "https://github.com/scarlett2018",
+      "contributions": [
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "contributor",
+  "projectOwner": "Lijiaoa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
