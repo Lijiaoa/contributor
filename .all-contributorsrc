@@ -5,6 +5,30 @@
   "imageSize": 80,
   "commit": false,
   "contributors": [
+  {
+      "login": "SparkSnail",
+      "name": "SparkSnail",
+      "profile": "https://github.com/SparkSnail",
+      "contributions": [
+        "code"
+      ]
+     },
+     {
+      "login": "chicm-ms",
+      "name": "chicm-ms",
+      "profile": "https://github.com/chicm-ms",
+      "contributions": [
+        "code"
+      ]
+     },
+     {
+      "login": "liuzhe-lz",
+      "name": "liuzhe-lz",
+      "profile": "https://github.com/liuzhe-lz",
+      "contributions": [
+        "code"
+      ]
+     },
     {
       "login": "scarlett2018",
       "name": "Scarlett Li",
