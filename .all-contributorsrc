@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "liuzhe-lz",
+      "name": "liuzhe-lz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40699903?v=4",
+      "profile": "https://github.com/liuzhe-lz",
+      "contributions": [
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "contributor",
+  "projectOwner": "Lijiaoa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
